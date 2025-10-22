@@ -92,7 +92,7 @@ Use tools to assess time efficiency and return on investment. Only recommend mee
 that represent highly efficient use of time for both parties."""
     }
 ]
-# THE ABOVE ARE PROVIDED FOR SIMPLICITY. LEARNERS MAY TWEAK THESE AS THEY SEE FIT
+# THE ABOVE ARE PROVIDED FOR SIMPLICITY. YOU MAY TWEAK THESE AS THEY SEE FIT
 # TO FURTHER IMPROVE THE QUALITY OF THE RESPONSES AND TRAINING DATA.
 
 
